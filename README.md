@@ -6,7 +6,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=skynet-core&show_icons=true&hide_rank=true&hide_title=true&text_bold=false&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=skynet-core&show_icons=true&hide_rank=true&hide_title=true&text_bold=false" alt="skynet-core" height="200" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skynet-core&show_icons=true&hide_rank=true&hide_title=true&text_bold=false" alt="skynet-core" height="250" width="400"/>
 </picture>
 <picture>
   <source
@@ -15,7 +15,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=compact&hide_title=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=compact&hide_title=true" alt="skynet-core" height="200" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=compact&hide_title=true" alt="skynet-core" height="250" width="400"/>
 </picture>
 <!--
 Built with the help of
