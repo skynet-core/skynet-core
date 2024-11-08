@@ -7,5 +7,5 @@
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=donut&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=donut&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=donut" alt="skynet-core" height="220" width="440"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=donut" alt="skynet-core" height="220" width="430"/>
 </picture>
