@@ -10,6 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=skynet-core&show_icons=true&hide_rank=true&hide_title=true&text_bold=false" alt="skynet-core" width="100%" />
 </picture>
 </div>
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=compact&hide_title=true&theme=dark"
@@ -17,8 +18,9 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=compact&hide_title=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=compact&hide_title=true" alt="rpanchyk" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skynet-core&show_icons=true&locale=en&layout=compact&hide_title=true" alt="rpanchyk" width="100%" />
 </picture>
+</div>
 <!--
 Built with the help of
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
